@@ -4,7 +4,21 @@
   "title": "afterns",
   "description": "US stock earnings: next-day price reactions, beat/miss history, calendar, call summaries (KO/EN)",
   "websiteUrl": "https://afterns.com",
-  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/afternsapp/afterns-mcp",
+    "source": "github",
+    "id": "1442874459"
+  },
+  "icons": [
+    {
+      "src": "https://afterns.com/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
